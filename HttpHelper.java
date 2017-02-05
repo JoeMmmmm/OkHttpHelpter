@@ -18,7 +18,7 @@ import okhttp3.Response;
 import okhttp3.ResponseBody;
 
 /**
- * Created by lxj on 2016/12/18.
+ * Created by joe on 2016/12/18.
  */
 
 public class HttpHelper {
